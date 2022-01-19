@@ -1,0 +1,29 @@
+.container-header {
+    background-color: #513FAB;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.div-logo{
+    margin-left: 150px;
+    display:flex;
+    color: #fff;
+}
+
+.logo-header{   
+    width: 40px;
+    margin-left: 150px;
+    padding: 15px;
+}
+
+.email{
+    color:#fff;
+    margin-right: 15px;
+}
+.content-header {
+    margin-right: 90px;
+    color:#fff;
+
+}

@@ -1,0 +1,20 @@
+.container-table{
+    display: block;
+    justify-content:center;
+    align-items: center;
+    background-color: #EFEFEF;
+    /* border: 1px solid red; */
+}
+.itens{
+    justify-self: center;
+    border: 16px solid rgb(67, 0, 250);
+    margin-left: 10px;
+}
+th{
+    color: #873EBA;
+    padding:20px;
+    text-align: center;
+}
+tr{
+    text-align: center;
+}

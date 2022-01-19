@@ -1,0 +1,27 @@
+.container-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	padding: 10px;
+  background-color:#ECEBF0;
+  /* background-color:; */
+}
+
+#value, #description, #select-currency,#method, #tag {
+	margin: 0 15px 0 5px;
+}
+
+button{
+	color:#EBEBED;
+	background-color: #725BB6;
+	padding: 5px 15px;
+	border: none;
+	border-radius: 5px;
+}
+
+button:hover{
+	cursor: pointer;
+	transition: .4s ease-in-out;
+	background-color: #873EBA;
+	color:#fff
+}
