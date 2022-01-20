@@ -50,10 +50,10 @@ h3::before {
 
 #email {
     margin-bottom: 1.5rem;
-    width: 55vh;
+    /* width: 55vh; */
 }
 #password {
-    width: 55vh;
+    /* width: 55vh; */
 }
 
 .input-field input {
